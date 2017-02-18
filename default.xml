@@ -24,6 +24,8 @@
            sync-c="true"
            sync-j="4" />
 
+  
+  <project path="device/samsung/kyleprods" name="KYLEPROXX-DEVS/android_device_samsung_kyleprods" remote="github" revision="cm-14.1" />
   <!-- AOSP Projects -->
 
   <project path="build" name="MoKee/android_build" groups="pdk,tradefed">
